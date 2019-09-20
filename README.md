@@ -11,12 +11,11 @@
 
 ![Screenshot (19)](https://user-images.githubusercontent.com/49291154/65294293-31ad5d80-db2c-11e9-8198-147d78c8b4c6.png)
 
-### The site also has a featured tab that provides a variety of curated podcasts the user can choose from.
+### The site also has a featured tab that provides a variety of curated podcasts the user can choose from.    
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/49291154/65293946-f199ab00-db2a-11e9-923e-138447cf3c2b.png)
 
-### The site utilizes the [Listen Notes](https://rapidapi.com/listennotes/api/listennotes) and
- [Google Books](https://www.programmableweb.com/api/google-books) APIs.
+### The site utilizes the [Listen Notes](https://rapidapi.com/listennotes/api/listennotes) and [Google Books](https://www.programmableweb.com/api/google-books) APIs.
 
 
 
